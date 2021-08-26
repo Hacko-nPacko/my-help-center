@@ -18,7 +18,7 @@ The goal of this project is to enable anyone to set up a free help center for th
 This project allows you to set up a help center for your product. The users of your product can visit the help center to find answers to recurring problems, to learn about advanced features, or even the latest changes. The content is completely up to you.
 
 Typically having a help center greatly reduces the number of support requests you'll get, as your users will find answers to the most common questions in your help center.
-
+<hr> <div><ul><li>здрасти вуйчо</li><li>от никсъна</li></ul></div>
 Think of a help center as a hybrid of FAQs, pro-tips for power users and a changelog.
 
 ## What is this exactly?
