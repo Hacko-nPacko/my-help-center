@@ -22,7 +22,7 @@ Typically having a help center greatly reduces the number of support requests yo
 
 <ol>
 	<li>
-		hehe
+		hehehe
 	</li>
 </ol>
 
